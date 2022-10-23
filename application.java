@@ -16,4 +16,19 @@ public class Calculator {
 		 int result = num1 - num2 ;
 		 return result;
 		 
+		 
+		 
 	 }
+	 some chages in file vipin date 20/9/22
+	 
+	  
+	int multiply (int num1, int num2) {
+		int result= num1 * num2 ;
+		return result;
+		
+	}
+	int divide (int num1, int num2) {
+		int result = num1/num2 ;
+		return result;
+	}
+}
